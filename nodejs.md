@@ -6,6 +6,8 @@
 
 nodejs是Ryan Dahl在09年开发出来的，底层基于C,C++，上层内置了一个V8引擎的框架，可以用javascript作为开发语言进行开发的运行环境。最初设计的是为了在服务器端运行javascript，目前，则可以被广泛应用到各个层面和领域。
 
+关于nodejs的介绍，可以参考[这个文章](https://speakerdeck.com/jacksontian/nodede-he-xin-yu-hong-li),
+
 
 
 ##nodejs能做什么##
